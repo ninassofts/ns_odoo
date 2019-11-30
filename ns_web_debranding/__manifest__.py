@@ -1,7 +1,7 @@
 {
     'name': "Backend debranding",
     'version': '13.0.1.0.28',
-    'author': 'NinasSofts',
+    'author': 'Ninas Softs',
     'license': 'LGPL-3',
     'category': 'Debranding',
     'images': ['images/web_debranding.png'],
