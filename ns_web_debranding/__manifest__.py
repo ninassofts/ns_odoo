@@ -6,7 +6,7 @@
     'category': 'Debranding',
     'images': ['images/web_debranding.png'],
     'website': 'https://www.dzitechnology.com',
-    'price': 0.99,
+    'price': 13.99,
     'currency': 'EUR',
     'depends': [
         'web',
