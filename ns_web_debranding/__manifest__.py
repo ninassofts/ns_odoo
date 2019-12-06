@@ -1,12 +1,12 @@
 {
     'name': "Backend debranding",
     'version': '13.0.1.0.28',
-    'author': 'Ninas Softs',
+    'author': 'NinasSofts',
     'license': 'LGPL-3',
     'category': 'Debranding',
     'images': ['images/web_debranding.png'],
     'website': 'https://www.dzitechnology.com',
-    'price': 13.99,
+    'price': 149.00,
     'currency': 'EUR',
     'depends': [
         'web',
