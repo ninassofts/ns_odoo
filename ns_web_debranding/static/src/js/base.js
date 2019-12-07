@@ -1,4 +1,4 @@
-odoo.define('web_debranding.base', function(require) {
+odoo.define('ns_web_debranding.base', function(require) {
     var WebClient = require('web.WebClient');
     var core = require('web.core');
 
