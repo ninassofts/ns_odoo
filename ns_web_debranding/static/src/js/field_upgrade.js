@@ -1,9 +1,4 @@
-/*  Copyright 2016-2017 Ivan Yelizariev <https://it-projects.info/team/yelizariev>
-    Copyright 2017 ArtyomLosev <https://github.com/ArtyomLosev>
-    Copyright 2018-2019 Kolushov Alexandr <https://it-projects.info/team/KolushovAlexandr>
-    Copyright 2018 Ildar Nasyrov <https://it-projects.info/team/iledarn>
-    License LGPL-3.0 or later (https://www.gnu.org/licenses/lgpl.html). */
-odoo.define('web_debranding.field_upgrade', function (require) {
+odoo.define('ns_web_debranding.field_upgrade', function (require) {
 "use strict";
 
     var FormRenderer = require('web.FormRenderer');
